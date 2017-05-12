@@ -7,7 +7,7 @@ Ein kleines Oster-Geschenk an einen Arbeitskollegen welcher in unserer Firma fü
 ![Unboxing Box open](Ei_Phone_0004.jpg)
 
 ## Tools
-* Evil Mad Scientist 'Egg-Bot' [Produkt Seite](http://shop.evilmadscientist.com/productsmenu/171)
+* Evil Mad Scientist 'Egg-Bot' [Produkt Seite](http://shop.evilmadscientist.com/productsmenu/171) [Wiki Seite](http://wiki.evilmadscientist.com/The_Original_Egg-Bot_Kit) [Kurzanleitung mit einigen Anwendungstips von Christoph Reinhardt](http://www.christophreinhardt.ch/images/2013/03/EggBot-Manual-FLZ.pdf)
 * Inkscape [Home Page](https://inkscape.org/)
 * Rayher Plastik Eier [Produkt Seite](https://rayher-hobby-shop.de/Tischdeko-Accessoires-1/Deko-Artikel/Ostern-1/Plastik-Eier.html)
 * Rayher Pappmaché Box [Produkt Seite](https://rayher-hobby-shop.de/Bastelmaterial-1/Boxen-Dosen/Pappmach-Box-Truhe-FSC-Recycled-100-1-1.html)
